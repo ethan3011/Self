@@ -1,6 +1,3 @@
-
-public class StudyJavaP183 {
-public static void main(String[] args) {
 	/*
 	 * return문의 반환값으로 주로 변수가 오긴 하지만 항상 그런것은 아니다. 아래 왼쪽 코드는 오른쪽 같이 간단히 할수 있는데,
 	 * 오른쪽 코드는 return문의 반환값으로 "x+y"라는 수식이 적혀있다. 그렇다고 해서 수식이 반환되는 것은 아니고,
@@ -37,6 +34,3 @@ public static void main(String[] args) {
 	 * }
 	 * 
 	 */
-
-}
-}

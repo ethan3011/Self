@@ -1,9 +1,5 @@
-
-
 public class StudyJavaP182 {
-	public static void main(String[] args) {
 
-	}
 	/*
 	 * return문은 현재 실행중인 메소드를 종료하고 호출한 메소드로 되돌아간다.
 	 * 지금까지 반환값이 있을때만 return문을 썻지만, 원래는 반환값 유무에 상관없이 모든 메소드에는 적어도 하나의 return 문이 있어야한다.
@@ -45,7 +41,5 @@ public class StudyJavaP182 {
 			return b;
 		}
 	}
-	 
-	
-	
+
 }
